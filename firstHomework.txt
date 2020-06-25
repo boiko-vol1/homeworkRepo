@@ -1,6 +1,6 @@
 Home work #1.
 
-1. Open chrome
+1. Open chrome Vovan
 2. Navigate to techtorialacademy.com
 3. Login
 4. Sign up for a class

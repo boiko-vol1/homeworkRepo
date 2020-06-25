@@ -1,7 +1,7 @@
 Homework
 
 1. Open CHrome
-2. Navigate to ...
+2. Navigate to ...Vovan
 3. Login
 4. Set reminder
 5. Log out
